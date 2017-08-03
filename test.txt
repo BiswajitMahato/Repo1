@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is CF9B-7840
+
+ Directory of C:\Users\Biswajit\Desktop\MyProject
+
+04/08/2017  12:03 AM    <DIR>          .
+04/08/2017  12:03 AM    <DIR>          ..
+04/08/2017  12:03 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  102,869,524,480 bytes free
